@@ -1,6 +1,6 @@
 # S.F.-City-Survey-Dashboard
 
-The PDF file in this reposity has the full project decsription AND link to the live dashboard for you to click through.
+## The PDF file in this reposity has the full project decsription AND link to the live dashboard for you to click through.
 
 The data is from the San Francisco City Survey available on Data.gov.
 
