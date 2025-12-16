@@ -1,5 +1,7 @@
 # S.F.-City-Survey-Dashboard
 
+The PDF file in this reposity has the full project decsription AND link to the live dashboard for you to click through.
+
 The data is from the San Francisco City Survey available on Data.gov.
 
 Survey respondents gave ratings from 1 to 5 to indicate their satisfaction with city services like the library system. Demographic data such as age, education, and language was collected.
